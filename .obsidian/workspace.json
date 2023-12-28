@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "5687c1eee2533f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "13cdcdd3fc75275b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f6e04d95e197a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f128bb697c7655e",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b0eff7c15e92a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a60966c64840365",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3ec939447c8c8e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d173f21abf4fa07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2451c332607d0c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "537844622b99eb46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa3ca4b023cf482a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74dca869ffa7fb90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6164c08b56db47fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38e17f606a0a6c56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md"
+              }
+            }
+          },
+          {
+            "id": "e76331ae3e86149f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d3d8f40125a10338",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "6f6e04d95e197a3c",
+  "lastOpenFiles": [
+    "Coursera/DeepLearning.IO/Tensorflow course/Introduction To Tensorflow/W1/Where to find the notebooks for this course.md",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-3.jpg",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-2.jpg",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-1.png",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/invalid-1.jpg",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W4/assignment/images/temp-series.png",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W4/assignment/data/daily-min-temperatures.csv",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W3/assignment/images/expected.png",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W2/assignment/images/forecast.png",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W1/assignment/images/val_series.png",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W1/assignment/images/train_series.png",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W1/assignment/images/plus_smooth.png",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_3_Conv1D.ipynb",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_2_multiple_layer_LSTM.ipynb",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_1_single_layer_LSTM.ipynb",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/C3W3_Assignment.ipynb",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W4/assignment/images",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
+    "health care database/Create Tables.md",
+    "django/preparing the environment.md",
+    "django/django for every one course/course link.md",
+    "health care database/Python Code To Generate Data For The Tables.md",
+    "health care database/Untitled Kanban.md",
+    "health care database/Untitled.canvas",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "vjhvjhv.md",
+    "2023-12-14.md",
+    "Untitled.canvas"
+  ]
+}
