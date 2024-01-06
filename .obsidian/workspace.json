@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "13cdcdd3fc75275b",
+        "id": "134e546ec7bee4fe",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6e04d95e197a3c",
+            "id": "23a9f2c7ffb5a22e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Coursera/DeepLearning.IO/tensorflow-1-public/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,11 +142,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +162,17 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "6f6e04d95e197a3c",
+  "active": "23a9f2c7ffb5a22e",
   "lastOpenFiles": [
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/Untitled.md",
     "Coursera/DeepLearning.IO/Tensorflow course/Introduction To Tensorflow/W1/Where to find the notebooks for this course.md",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w2",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w1",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization",
+    "Coursera/DeepLearning.IO/Tensorflow course/Introduction To Tensorflow/W1/tf.keras.md",
+    "Coursera/DeepLearning.IO/Tensorflow course/Introduction To Tensorflow/W1/ex1.py",
+    "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-3.jpg",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-2.jpg",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-1.png",
@@ -187,12 +188,6 @@
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_3_Conv1D.ipynb",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_2_multiple_layer_LSTM.ipynb",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_1_single_layer_LSTM.ipynb",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/C3W3_Assignment.ipynb",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W4/assignment/images",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
     "health care database/Create Tables.md",
     "django/preparing the environment.md",
     "django/django for every one course/course link.md",
