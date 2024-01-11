@@ -11,8 +11,12 @@
             "id": "23a9f2c7ffb5a22e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning/W2/Notation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning/W2/Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning/W2/Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning/W2/Notation.md"
+              }
             }
           },
           {
@@ -164,30 +172,32 @@
   },
   "active": "23a9f2c7ffb5a22e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning/W2/Notation.md",
+    "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning/W2",
+    "Coursera/DeepLearning.IO/deep learning spetialization",
+    "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning/W1",
+    "Coursera/DeepLearning.IO/deep learning spetialization/Neural Networks and Deep Learning",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w1/P8uMS3oYSumhsZUJPLcJ-Q_8032d8f134064017b63bd7d7ed1fddf1_C1_W1.pdf",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w1/Files.zip.tmp",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w1/Files.zip",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w1/W1.ipynb",
+    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w1/Unconfirmed 294250.crdownload",
     "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/Untitled.md",
     "Coursera/DeepLearning.IO/Tensorflow course/Introduction To Tensorflow/W1/Where to find the notebooks for this course.md",
     "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w2",
-    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra/w1",
-    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization/machine-learning-linear-algebra",
-    "Coursera/DeepLearning.IO/Mathematics for Machine Learning and Data Science Specialization",
     "Coursera/DeepLearning.IO/Tensorflow course/Introduction To Tensorflow/W1/tf.keras.md",
-    "Coursera/DeepLearning.IO/Tensorflow course/Introduction To Tensorflow/W1/ex1.py",
     "Coursera/DeepLearning.IO/tensorflow-1-public/README.md",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-3.jpg",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-2.jpg",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/valid-1.png",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/assignment/images/invalid-1.jpg",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W4/assignment/images/temp-series.png",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W4/assignment/data/daily-min-temperatures.csv",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W3/assignment/images/expected.png",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W2/assignment/images/forecast.png",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W1/assignment/images/val_series.png",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W1/assignment/images/train_series.png",
     "Coursera/DeepLearning.IO/tensorflow-1-public/C4/W1/assignment/images/plus_smooth.png",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb",
-    "Coursera/DeepLearning.IO/tensorflow-1-public/C3/W3/ungraded_labs/C3_W3_Lab_3_Conv1D.ipynb",
     "health care database/Create Tables.md",
     "django/preparing the environment.md",
     "django/django for every one course/course link.md",
@@ -196,7 +206,6 @@
     "health care database/Untitled.canvas",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "vjhvjhv.md",
     "2023-12-14.md",
     "Untitled.canvas"
